@@ -26,3 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O GitHub Favorites é um aplicativo para podermos favoritar algum perfil, é possível favoritar quantos perfis quiser e também excluir.
+Caso queira acessar o projeto entre nesse [site](https://guilhermesousag.github.io/githubFavorites/) 
